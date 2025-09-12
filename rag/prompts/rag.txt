@@ -1,0 +1,27 @@
+
+### Context: 
+
+The following context was extracted from a scientific Graph Database and contains Earth Observation (EO)-related information:
+
+- A list of publications (titles, abstracts and sources) that match the user query.
+- A list of scientific keywords (`name`), along with their `descriptions` and `references` (where the keyword originate from), based on the NASA GCMD taxonomy.
+- Links between publications and scientific keywords based on their content relevance (`secondary_nodes`).
+
+Use this context to answer the question, if relevant. 
+
+The documents in the provided context have metadata, including title or name and source (uri) or reference. Only use this metdata, ignore references / citations in the 'page_content' field. If you use a document cite it in IEEE style. Mentioning the metadata (title / name / source / reference) is ONLY allowed in the 'Reference' section (bibliography). If you use a document multiple times include it only once in 'References'.
+
+<context>
+    {context}
+</context>
+
+### Query:
+
+{question}
+
+### Answer
+
+[<answer>]
+
+References:
+[<number>] [<title / name>], [<uri / reference>]

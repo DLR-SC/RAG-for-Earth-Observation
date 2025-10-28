@@ -1,0 +1,27 @@
+You answered a question with the following draft answer, using your knowledge. Now refine this answer using the provided context.
+
+
+### YOUR DRAFT ANSWER
+
+- Question: {question}
+
+- Draft Answer: {draft_answer}
+
+
+### CONTEXT
+
+The context contains publications and their related topics extracted from an Earth Observation Knowledge Graph:
+
+{context}
+
+
+### INSTRUCTIONS
+
+- Keep correct details from your draft.
+- Add missing relevant details from context.
+- If context contradicts your draft, revise your answer.
+
+Read the instructions then answer
+
+
+### Refine Answer

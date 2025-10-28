@@ -1,0 +1,5 @@
+;feature;2rag rag;2rag zero_shot;rag zero_shot
+0;score;0.43;0.74;0.3
+1;score_groundedness;0.2;0.75;0.54
+2;score_helpfulness;0.3;0.14;
+3;score_depth;0.36;0.17;

@@ -1,3 +1,0 @@
-You are an expert scientist and a critical thinker.
-Your task is to generate a realistic, concise scientific question with given criteria.
-

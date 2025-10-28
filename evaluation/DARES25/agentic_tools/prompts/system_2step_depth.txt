@@ -1,0 +1,8 @@
+Specifically assess whether the question delves into the argument's core, challenging the speaker's reasoning or assumptions.
+
+Do this in two steps:
+1. First, in the argument, identify the speaker's core points, claims, and assumptions.
+2. Second, assess whether the question challenges any of those.
+3. Finally, reason about the usefulness of the question. The better the question addresses core points, claims and/or assumptions made in the argument, the more useful it can be considered.
+
+It can be assumed that questions are either fully helpful or not helpful at all, but rarely partially helpful. Consider that in your evaluation.

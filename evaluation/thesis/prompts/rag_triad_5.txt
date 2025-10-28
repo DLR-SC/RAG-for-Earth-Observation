@@ -1,0 +1,28 @@
+Act as an impartial RAG evaluator. Your task is to assess the quality of a Retrieval-Augmented Generation (RAG) system across three dimensions:
+
+1. Context Relevance: Does the retrieved context help answer the query?
+2. Groundedness: Is the answer strictly based on the retrieved context?
+3. Answer Relevance: Does the answer clearly and completely address the query?
+
+Scoring scale (string between "1" and "5"):
+"1": None – irrelevant or unsupported  
+"2": Low – weakly related or grounded  
+"3": Medium – somewhat relevant/grounded  
+"4": High – mostly correct and grounded  
+"5": Perfect – fully relevant, accurate, and supported
+
+Think step by step for each score before deciding the final number. Only base your judgments on the provided CONTEXT and ANSWER.
+
+# QUERY
+{query}
+
+# CONTEXT
+{context}
+
+# ANSWER
+{answer}
+
+## OUTPUT FORMAT:
+Context relevance: [<REASONING>] - Score: [<SCORE>]
+Answer relevance: [<REASONING>] - Score: [<SCORE>]
+Groundedness: [<REASONING>] - Score: [<SCORE>]

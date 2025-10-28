@@ -1,0 +1,28 @@
+# Use official Python slim base
+FROM python:3.11-slim
+
+# Set working directory
+WORKDIR .
+
+# Copy requirements first for caching
+COPY requirements.txt .
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+
+# Copy the Streamlit app
+COPY . .
+
+# Set environment variables (optional defaults)
+ENV STREAMLIT_PORT=8501
+ENV STREAMLIT_SERVER_PORT=${STREAMLIT_PORT}
+ENV STREAMLIT_SERVER_HEADLESS=true
+ENV STREAMLIT_SERVER_ENABLECORS=false
+ENV STREAMLIT_SERVER_ENABLEXSRSFPROTECTION=false
+
+# Expose port
+EXPOSE 8501
+
+# Run Streamlit
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]

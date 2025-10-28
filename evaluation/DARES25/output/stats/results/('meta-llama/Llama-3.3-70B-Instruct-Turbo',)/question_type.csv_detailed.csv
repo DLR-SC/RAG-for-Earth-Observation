@@ -1,0 +1,7 @@
+feature;is_normal (shapiro);is_homogeneous (levene);p_value;is_significant;effect;result;('Causal', 'Comparative');('Causal', 'Comparative');('Causal', 'Descriptive');('Causal', 'Descriptive');('Causal', 'Exploratory');('Causal', 'Exploratory');('Causal', 'Relational');('Causal', 'Relational');('Comparative', 'Descriptive');('Comparative', 'Descriptive');('Comparative', 'Exploratory');('Comparative', 'Exploratory');('Comparative', 'Relational');('Comparative', 'Relational');('Descriptive', 'Exploratory');('Descriptive', 'Exploratory');('Descriptive', 'Relational');('Descriptive', 'Relational');('Exploratory', 'Relational');('Exploratory', 'Relational')
+score;False;False;0.02008748865389108;True;;;False;;False;;False;;False;;False;;False;;False;;False;;False;;False;
+score_factuality;False;False;0.5678629955141676;False;;;False;;False;;False;;False;;False;;False;;False;;False;;False;;False;
+score_relevance;False;False;0.4665586892960074;False;;;False;;False;;False;;False;;False;;False;;False;;False;;False;;False;
+score_groundedness;False;False;0.18802095477692163;False;;;False;;False;;False;;False;;False;;False;;False;;False;;False;;False;
+score_helpfulness;False;False;0.027301650212230022;True;;;False;;False;;False;;False;;False;;False;;False;;False;;False;;False;
+score_depth;False;False;0.002205750219617177;True;;;False;;False;;False;;False;;True;-0.32;False;;False;;False;;True;0.29;False;

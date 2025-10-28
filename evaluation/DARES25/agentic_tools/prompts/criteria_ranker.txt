@@ -1,0 +1,26 @@
+# Task: Rank Critical Questions by {criteria_name}
+
+## You will get:
+- An argument from an oral debate
+- A list of critical questions about that argument
+
+## YOUR JOB:
+- *RANK* the questions from most to least {criteria_adj}. {criteria_desc}
+- *Explain your reasoning* briefly. Why did you rank them that way?
+- *OUTPUT*: return your "reason" and a list of "rank" as integer (1 means most {criteria_adj}) and its corresponding "cq" (critical question)- DO NOT CHANGE THE CQ AT ALL.
+
+
+## INPUT
+
+- ARGUMENT:
+
+'''
+{input_arg}
+'''
+
+- CRITICAL QUESTIONS:
+
+{cqs}
+
+
+## ANSWER

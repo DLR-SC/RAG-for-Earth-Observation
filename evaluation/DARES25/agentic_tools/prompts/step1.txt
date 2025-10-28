@@ -1,0 +1,9 @@
+Argument:
+```
+{input_arg}
+```
+
+Corresponding critical question to evaluate:
+```
+{cq}
+```

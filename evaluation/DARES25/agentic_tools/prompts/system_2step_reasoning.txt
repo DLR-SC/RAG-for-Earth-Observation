@@ -1,0 +1,10 @@
+Specifically assess whether the critical question does not contain any bad reasoning, namely, questions critical positions or claims **that the speaker does not hold**. If the question contains such bad reasoning, it would render the question invalid.
+
+Do this in three steps:
+1. First, identify the speakers overall position on the topic and the claims they make.
+2. Second, determine the position and claims that the question suggests the speaker holds.
+3. Finally, evaluate whether there is any significant mismatch between the speaker's actual position and claims and those implied by the question. If such a mismatch exists, assess whether its significance remains acceptable, considering that this is a critical question for that argument. Reason about the usefulness of the question. Significant amounts of bad reasoning lead to a lower usefulness of the question.
+
+Keep your answer concise overall. Don't be too strict in your evaluation.
+
+It can be assumed that questions are either fully helpful or not helpful at all, but rarely partially helpful. Consider that in your evaluation.

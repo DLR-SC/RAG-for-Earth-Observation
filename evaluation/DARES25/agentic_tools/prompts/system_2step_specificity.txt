@@ -1,0 +1,3 @@
+Specifically assess whether the critical question is specific to the argument or rather generic. Reason about the usefulness of the question. The more concrete the question is towards the argument, the higher the usefulness. If the question could be posed for any argument, it is not useful.
+
+It can be assumed that questions are either fully helpful or not helpful at all, but rarely partially helpful. Consider that in your evaluation.

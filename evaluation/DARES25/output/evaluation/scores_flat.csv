@@ -1,0 +1,421 @@
+topic,question_type,model,score,experiment,score_factuality,score_relevance,score_groundedness,score_helpfulness,score_depth
+CLIMATE INDICATORS,Exploratory,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+CLIMATE INDICATORS,Exploratory,mistral-small-2503,4.8,rag,5.0,5.0,4.0,5.0,5.0
+CLIMATE INDICATORS,Exploratory,mistral-small-2503,5.0,zero_shot,5.0,5.0,5.0,5.0,5.0
+CLIMATE INDICATORS,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+CLIMATE INDICATORS,Comparative,mistral-small-2503,4.73,rag,5.0,5.0,5.0,4.33,4.33
+CLIMATE INDICATORS,Comparative,mistral-small-2503,4.67,zero_shot,5.0,5.0,3.67,4.67,5.0
+CLIMATE INDICATORS,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+CLIMATE INDICATORS,Descriptive,mistral-small-2503,4.93,rag,5.0,5.0,5.0,5.0,4.67
+CLIMATE INDICATORS,Descriptive,mistral-small-2503,4.93,zero_shot,5.0,5.0,4.67,5.0,5.0
+CLIMATE INDICATORS,Causal,mistral-small-2503,4.93,2rag,5.0,5.0,5.0,5.0,4.67
+CLIMATE INDICATORS,Causal,mistral-small-2503,4.87,rag,5.0,5.0,5.0,5.0,4.33
+CLIMATE INDICATORS,Causal,mistral-small-2503,4.2,zero_shot,5.0,5.0,3.33,4.0,3.67
+CLIMATE INDICATORS,Relational,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+CLIMATE INDICATORS,Relational,mistral-small-2503,4.6,rag,5.0,5.0,3.67,4.67,4.67
+CLIMATE INDICATORS,Relational,mistral-small-2503,4.93,zero_shot,5.0,5.0,4.67,5.0,5.0
+SOLID EARTH,Exploratory,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SOLID EARTH,Exploratory,mistral-small-2503,4.67,rag,5.0,5.0,4.33,4.67,4.33
+SOLID EARTH,Exploratory,mistral-small-2503,4.73,zero_shot,5.0,5.0,4.0,4.67,5.0
+SOLID EARTH,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SOLID EARTH,Comparative,mistral-small-2503,4.87,rag,5.0,5.0,5.0,4.67,4.67
+SOLID EARTH,Comparative,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SOLID EARTH,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SOLID EARTH,Descriptive,mistral-small-2503,4.73,rag,5.0,5.0,4.0,5.0,4.67
+SOLID EARTH,Descriptive,mistral-small-2503,4.67,zero_shot,5.0,5.0,4.0,5.0,4.33
+SOLID EARTH,Causal,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SOLID EARTH,Causal,mistral-small-2503,4.53,rag,4.33,5.0,4.0,4.33,5.0
+SOLID EARTH,Causal,mistral-small-2503,4.13,zero_shot,4.67,5.0,3.0,4.0,4.0
+SOLID EARTH,Relational,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SOLID EARTH,Relational,mistral-small-2503,4.13,rag,4.0,4.67,4.0,4.0,4.0
+SOLID EARTH,Relational,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Exploratory,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Exploratory,mistral-small-2503,4.73,rag,5.0,5.0,4.33,5.0,4.33
+SUN-EARTH INTERACTIONS,Exploratory,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Comparative,mistral-small-2503,4.87,rag,5.0,5.0,5.0,5.0,4.33
+SUN-EARTH INTERACTIONS,Comparative,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Descriptive,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+SUN-EARTH INTERACTIONS,Descriptive,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Descriptive,mistral-small-2503,4.93,zero_shot,5.0,5.0,4.67,5.0,5.0
+SUN-EARTH INTERACTIONS,Causal,mistral-small-2503,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Causal,mistral-small-2503,4.73,rag,5.0,5.0,3.67,5.0,5.0
+SUN-EARTH INTERACTIONS,Causal,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Relational,mistral-small-2503,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+SUN-EARTH INTERACTIONS,Relational,mistral-small-2503,4.87,rag,5.0,5.0,4.33,5.0,5.0
+SUN-EARTH INTERACTIONS,Relational,mistral-small-2503,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+LAND SURFACE,Exploratory,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+LAND SURFACE,Exploratory,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+LAND SURFACE,Exploratory,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+LAND SURFACE,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+LAND SURFACE,Comparative,mistral-small-2503,4.27,rag,5.0,5.0,3.33,4.0,4.0
+LAND SURFACE,Comparative,mistral-small-2503,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+LAND SURFACE,Descriptive,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+LAND SURFACE,Descriptive,mistral-small-2503,4.8,rag,5.0,5.0,4.0,5.0,5.0
+LAND SURFACE,Descriptive,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+LAND SURFACE,Causal,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+LAND SURFACE,Causal,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+LAND SURFACE,Causal,mistral-small-2503,4.67,zero_shot,5.0,5.0,3.67,4.67,5.0
+LAND SURFACE,Relational,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+LAND SURFACE,Relational,mistral-small-2503,4.87,rag,5.0,5.0,4.67,5.0,4.67
+LAND SURFACE,Relational,mistral-small-2503,4.67,zero_shot,5.0,5.0,3.33,5.0,5.0
+SPECTRAL/ENGINEERING,Exploratory,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SPECTRAL/ENGINEERING,Exploratory,mistral-small-2503,4.8,rag,5.0,5.0,4.0,5.0,5.0
+SPECTRAL/ENGINEERING,Exploratory,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SPECTRAL/ENGINEERING,Comparative,mistral-small-2503,4.8,2rag,5.0,5.0,4.33,5.0,4.67
+SPECTRAL/ENGINEERING,Comparative,mistral-small-2503,4.33,rag,5.0,5.0,3.67,4.0,4.0
+SPECTRAL/ENGINEERING,Comparative,mistral-small-2503,4.67,zero_shot,5.0,5.0,4.0,5.0,4.33
+SPECTRAL/ENGINEERING,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SPECTRAL/ENGINEERING,Descriptive,mistral-small-2503,4.4,rag,4.33,5.0,4.0,4.33,4.33
+SPECTRAL/ENGINEERING,Descriptive,mistral-small-2503,5.0,zero_shot,5.0,5.0,5.0,5.0,5.0
+SPECTRAL/ENGINEERING,Causal,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+SPECTRAL/ENGINEERING,Causal,mistral-small-2503,4.93,rag,5.0,5.0,4.67,5.0,5.0
+SPECTRAL/ENGINEERING,Causal,mistral-small-2503,4.73,zero_shot,5.0,5.0,3.67,5.0,5.0
+SPECTRAL/ENGINEERING,Relational,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+SPECTRAL/ENGINEERING,Relational,mistral-small-2503,4.87,rag,5.0,5.0,4.33,5.0,5.0
+SPECTRAL/ENGINEERING,Relational,mistral-small-2503,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Exploratory,mistral-small-2503,4.93,2rag,5.0,5.0,5.0,5.0,4.67
+TERRESTRIAL HYDROSPHERE,Exploratory,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Exploratory,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Comparative,mistral-small-2503,4.93,rag,5.0,5.0,5.0,5.0,4.67
+TERRESTRIAL HYDROSPHERE,Comparative,mistral-small-2503,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Descriptive,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Descriptive,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.33,5.0,4.67
+TERRESTRIAL HYDROSPHERE,Causal,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Causal,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Causal,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Relational,mistral-small-2503,4.73,2rag,4.67,5.0,4.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Relational,mistral-small-2503,4.0,rag,4.0,5.0,3.0,4.0,4.0
+TERRESTRIAL HYDROSPHERE,Relational,mistral-small-2503,3.93,zero_shot,4.0,5.0,2.67,4.0,4.0
+OCEANS,Exploratory,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+OCEANS,Exploratory,mistral-small-2503,4.6,rag,5.0,5.0,5.0,4.0,4.0
+OCEANS,Exploratory,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+OCEANS,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+OCEANS,Comparative,mistral-small-2503,4.87,rag,5.0,5.0,5.0,4.67,4.67
+OCEANS,Comparative,mistral-small-2503,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+OCEANS,Descriptive,mistral-small-2503,4.87,2rag,5.0,5.0,4.67,5.0,4.67
+OCEANS,Descriptive,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+OCEANS,Descriptive,mistral-small-2503,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+OCEANS,Causal,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+OCEANS,Causal,mistral-small-2503,4.93,rag,5.0,5.0,4.67,5.0,5.0
+OCEANS,Causal,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+OCEANS,Relational,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+OCEANS,Relational,mistral-small-2503,4.93,rag,5.0,5.0,5.0,4.67,5.0
+OCEANS,Relational,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+BIOSPHERE,Exploratory,mistral-small-2503,4.93,2rag,5.0,5.0,5.0,5.0,4.67
+BIOSPHERE,Exploratory,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+BIOSPHERE,Exploratory,mistral-small-2503,4.73,zero_shot,5.0,5.0,3.67,5.0,5.0
+BIOSPHERE,Comparative,mistral-small-2503,4.6,2rag,5.0,5.0,3.67,4.67,4.67
+BIOSPHERE,Comparative,mistral-small-2503,4.53,rag,5.0,5.0,3.33,4.67,4.67
+BIOSPHERE,Comparative,mistral-small-2503,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+BIOSPHERE,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+BIOSPHERE,Descriptive,mistral-small-2503,4.87,rag,5.0,5.0,4.33,5.0,5.0
+BIOSPHERE,Descriptive,mistral-small-2503,4.73,zero_shot,5.0,5.0,3.67,5.0,5.0
+BIOSPHERE,Causal,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+BIOSPHERE,Causal,mistral-small-2503,4.33,rag,4.67,5.0,3.33,4.33,4.33
+BIOSPHERE,Causal,mistral-small-2503,4.73,zero_shot,5.0,5.0,3.67,5.0,5.0
+BIOSPHERE,Relational,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+BIOSPHERE,Relational,mistral-small-2503,4.93,rag,5.0,5.0,4.67,5.0,5.0
+BIOSPHERE,Relational,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+AGRICULTURE,Exploratory,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+AGRICULTURE,Exploratory,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+AGRICULTURE,Exploratory,mistral-small-2503,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+AGRICULTURE,Comparative,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+AGRICULTURE,Comparative,mistral-small-2503,4.87,rag,5.0,5.0,5.0,4.67,4.67
+AGRICULTURE,Comparative,mistral-small-2503,4.13,zero_shot,4.33,5.0,3.0,4.33,4.0
+AGRICULTURE,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+AGRICULTURE,Descriptive,mistral-small-2503,4.93,rag,5.0,5.0,5.0,5.0,4.67
+AGRICULTURE,Descriptive,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+AGRICULTURE,Causal,mistral-small-2503,4.93,2rag,5.0,5.0,5.0,5.0,4.67
+AGRICULTURE,Causal,mistral-small-2503,4.93,rag,5.0,5.0,5.0,5.0,4.67
+AGRICULTURE,Causal,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+AGRICULTURE,Relational,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+AGRICULTURE,Relational,mistral-small-2503,4.93,rag,5.0,5.0,5.0,5.0,4.67
+AGRICULTURE,Relational,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+ATMOSPHERE,Exploratory,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+ATMOSPHERE,Exploratory,mistral-small-2503,4.87,rag,4.67,5.0,4.67,5.0,5.0
+ATMOSPHERE,Exploratory,mistral-small-2503,4.73,zero_shot,5.0,5.0,3.67,5.0,5.0
+ATMOSPHERE,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+ATMOSPHERE,Comparative,mistral-small-2503,4.73,rag,5.0,5.0,4.67,4.67,4.33
+ATMOSPHERE,Comparative,mistral-small-2503,4.53,zero_shot,5.0,5.0,4.0,4.67,4.0
+ATMOSPHERE,Descriptive,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+ATMOSPHERE,Descriptive,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+ATMOSPHERE,Descriptive,mistral-small-2503,4.73,zero_shot,5.0,5.0,3.67,5.0,5.0
+ATMOSPHERE,Causal,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+ATMOSPHERE,Causal,mistral-small-2503,4.87,rag,5.0,5.0,4.33,5.0,5.0
+ATMOSPHERE,Causal,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+ATMOSPHERE,Relational,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+ATMOSPHERE,Relational,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+ATMOSPHERE,Relational,mistral-small-2503,4.73,zero_shot,5.0,5.0,3.67,5.0,5.0
+PALEOCLIMATE,Exploratory,mistral-small-2503,4.87,2rag,5.0,5.0,4.67,5.0,4.67
+PALEOCLIMATE,Exploratory,mistral-small-2503,4.8,rag,5.0,5.0,4.67,4.67,4.67
+PALEOCLIMATE,Exploratory,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+PALEOCLIMATE,Comparative,mistral-small-2503,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+PALEOCLIMATE,Comparative,mistral-small-2503,4.8,rag,5.0,5.0,4.33,5.0,4.67
+PALEOCLIMATE,Comparative,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+PALEOCLIMATE,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+PALEOCLIMATE,Descriptive,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+PALEOCLIMATE,Descriptive,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+PALEOCLIMATE,Causal,mistral-small-2503,4.93,2rag,5.0,5.0,5.0,5.0,4.67
+PALEOCLIMATE,Causal,mistral-small-2503,4.87,rag,5.0,5.0,5.0,4.67,4.67
+PALEOCLIMATE,Causal,mistral-small-2503,4.67,zero_shot,5.0,5.0,3.67,5.0,4.67
+PALEOCLIMATE,Relational,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+PALEOCLIMATE,Relational,mistral-small-2503,4.53,rag,5.0,5.0,4.67,4.0,4.0
+PALEOCLIMATE,Relational,mistral-small-2503,4.53,zero_shot,5.0,5.0,3.67,4.33,4.67
+CRYOSPHERE,Exploratory,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+CRYOSPHERE,Exploratory,mistral-small-2503,4.87,rag,5.0,5.0,4.33,5.0,5.0
+CRYOSPHERE,Exploratory,mistral-small-2503,4.6,zero_shot,4.67,5.0,4.0,5.0,4.33
+CRYOSPHERE,Comparative,mistral-small-2503,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+CRYOSPHERE,Comparative,mistral-small-2503,4.47,rag,5.0,5.0,3.67,4.33,4.33
+CRYOSPHERE,Comparative,mistral-small-2503,4.4,zero_shot,5.0,5.0,3.33,4.33,4.33
+CRYOSPHERE,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+CRYOSPHERE,Descriptive,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+CRYOSPHERE,Descriptive,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+CRYOSPHERE,Causal,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+CRYOSPHERE,Causal,mistral-small-2503,4.93,rag,5.0,5.0,4.67,5.0,5.0
+CRYOSPHERE,Causal,mistral-small-2503,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+CRYOSPHERE,Relational,mistral-small-2503,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+CRYOSPHERE,Relational,mistral-small-2503,4.6,rag,5.0,5.0,4.0,4.67,4.33
+CRYOSPHERE,Relational,mistral-small-2503,4.6,zero_shot,4.67,5.0,3.33,5.0,5.0
+HUMAN DIMENSIONS,Exploratory,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+HUMAN DIMENSIONS,Exploratory,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Exploratory,mistral-small-2503,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+HUMAN DIMENSIONS,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Comparative,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Comparative,mistral-small-2503,4.6,zero_shot,5.0,5.0,4.33,4.33,4.33
+HUMAN DIMENSIONS,Descriptive,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Descriptive,mistral-small-2503,4.73,rag,5.0,5.0,4.0,5.0,4.67
+HUMAN DIMENSIONS,Descriptive,mistral-small-2503,4.67,zero_shot,5.0,5.0,3.33,5.0,5.0
+HUMAN DIMENSIONS,Causal,mistral-small-2503,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+HUMAN DIMENSIONS,Causal,mistral-small-2503,5.0,rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Causal,mistral-small-2503,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+HUMAN DIMENSIONS,Relational,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+HUMAN DIMENSIONS,Relational,mistral-small-2503,4.67,rag,5.0,5.0,4.67,4.67,4.0
+HUMAN DIMENSIONS,Relational,mistral-small-2503,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+BIOLOGICAL CLASSIFICATION,Exploratory,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Exploratory,mistral-small-2503,4.93,rag,5.0,5.0,4.67,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Exploratory,mistral-small-2503,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Comparative,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Comparative,mistral-small-2503,4.8,rag,5.0,5.0,5.0,5.0,4.0
+BIOLOGICAL CLASSIFICATION,Comparative,mistral-small-2503,4.67,zero_shot,5.0,5.0,3.67,5.0,4.67
+BIOLOGICAL CLASSIFICATION,Descriptive,mistral-small-2503,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Descriptive,mistral-small-2503,4.87,rag,5.0,5.0,4.33,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Descriptive,mistral-small-2503,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Causal,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Causal,mistral-small-2503,4.87,rag,5.0,5.0,5.0,4.67,4.67
+BIOLOGICAL CLASSIFICATION,Causal,mistral-small-2503,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Relational,mistral-small-2503,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Relational,mistral-small-2503,4.73,rag,5.0,5.0,4.67,4.67,4.33
+BIOLOGICAL CLASSIFICATION,Relational,mistral-small-2503,3.73,zero_shot,4.33,5.0,2.33,3.33,3.67
+CLIMATE INDICATORS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+CLIMATE INDICATORS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,4.0,4.0,4.0
+CLIMATE INDICATORS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+CLIMATE INDICATORS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+CLIMATE INDICATORS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.67,4.0,4.0
+CLIMATE INDICATORS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.47,zero_shot,5.0,5.0,3.67,4.33,4.33
+CLIMATE INDICATORS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+CLIMATE INDICATORS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,rag,5.0,5.0,5.0,5.0,5.0
+CLIMATE INDICATORS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+CLIMATE INDICATORS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+CLIMATE INDICATORS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,5.0,5.0,4.33,4.67,4.0
+CLIMATE INDICATORS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.27,zero_shot,4.67,5.0,3.33,4.33,4.0
+CLIMATE INDICATORS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+CLIMATE INDICATORS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,5.0,5.0,4.33,4.33,4.33
+CLIMATE INDICATORS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SOLID EARTH,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+SOLID EARTH,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.0,rag,4.0,5.0,3.67,4.0,3.33
+SOLID EARTH,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.0,zero_shot,4.0,5.0,3.33,3.67,4.0
+SOLID EARTH,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SOLID EARTH,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,rag,5.0,5.0,5.0,4.33,4.0
+SOLID EARTH,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,zero_shot,5.0,5.0,4.67,5.0,5.0
+SOLID EARTH,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,2rag,4.33,5.0,4.0,4.67,5.0
+SOLID EARTH,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.0,rag,4.0,5.0,3.33,4.0,3.67
+SOLID EARTH,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.13,zero_shot,4.0,5.0,3.67,4.0,4.0
+SOLID EARTH,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,4.67,4.33,5.0,5.0
+SOLID EARTH,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.07,rag,4.0,5.0,3.67,4.0,3.67
+SOLID EARTH,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,3.67,4.67,4.67
+SOLID EARTH,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,2rag,5.0,5.0,4.33,4.67,4.67
+SOLID EARTH,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,3.67,rag,4.0,5.0,3.33,3.0,3.0
+SOLID EARTH,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,zero_shot,5.0,5.0,3.33,4.33,4.33
+SUN-EARTH INTERACTIONS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.0,4.33,4.33
+SUN-EARTH INTERACTIONS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,5.0,5.0,5.0,4.0,4.0
+SUN-EARTH INTERACTIONS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,zero_shot,5.0,5.0,4.0,5.0,4.33
+SUN-EARTH INTERACTIONS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,rag,5.0,5.0,5.0,5.0,4.67
+SUN-EARTH INTERACTIONS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+SUN-EARTH INTERACTIONS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+SUN-EARTH INTERACTIONS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,rag,5.0,5.0,4.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SUN-EARTH INTERACTIONS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,4.67,5.0,4.67,4.33,4.33
+SUN-EARTH INTERACTIONS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,4.0,4.67,4.33
+LAND SURFACE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+LAND SURFACE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,rag,5.0,5.0,4.0,4.67,4.67
+LAND SURFACE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+LAND SURFACE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.13,2rag,4.0,5.0,3.33,4.33,4.0
+LAND SURFACE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,3.93,rag,4.67,5.0,2.67,4.0,3.33
+LAND SURFACE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,3.93,zero_shot,4.0,5.0,3.0,4.0,3.67
+LAND SURFACE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,2rag,5.0,5.0,4.0,4.67,4.67
+LAND SURFACE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.0,4.33,4.33
+LAND SURFACE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.33,5.0,4.67
+LAND SURFACE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,2rag,5.0,4.0,4.33,4.33,5.0
+LAND SURFACE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.13,rag,5.0,5.0,3.33,4.0,3.33
+LAND SURFACE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.47,zero_shot,5.0,5.0,3.33,4.33,4.67
+LAND SURFACE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.33,5.0,4.67
+LAND SURFACE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.0,rag,4.33,5.0,3.67,4.0,3.0
+LAND SURFACE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,3.0,5.0,5.0
+SPECTRAL/ENGINEERING,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+SPECTRAL/ENGINEERING,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,rag,5.0,5.0,5.0,4.33,4.33
+SPECTRAL/ENGINEERING,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+SPECTRAL/ENGINEERING,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SPECTRAL/ENGINEERING,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.33,4.33,4.0
+SPECTRAL/ENGINEERING,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+SPECTRAL/ENGINEERING,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+SPECTRAL/ENGINEERING,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,rag,5.0,5.0,5.0,4.67,4.33
+SPECTRAL/ENGINEERING,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,zero_shot,5.0,5.0,4.67,5.0,5.0
+SPECTRAL/ENGINEERING,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+SPECTRAL/ENGINEERING,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,4.0,4.0,4.0
+SPECTRAL/ENGINEERING,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+SPECTRAL/ENGINEERING,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+SPECTRAL/ENGINEERING,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.33,4.33,4.0
+SPECTRAL/ENGINEERING,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.0,rag,4.67,5.0,3.0,4.0,3.33
+TERRESTRIAL HYDROSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.33,4.33,4.0
+TERRESTRIAL HYDROSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,4.0,4.33,4.67
+TERRESTRIAL HYDROSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,rag,5.0,5.0,4.33,5.0,4.67
+TERRESTRIAL HYDROSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,4.67,5.0,3.67,4.67,5.0
+TERRESTRIAL HYDROSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,rag,5.0,5.0,5.0,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+TERRESTRIAL HYDROSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+TERRESTRIAL HYDROSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.2,rag,4.33,5.0,4.33,4.0,3.33
+TERRESTRIAL HYDROSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,3.67,4.67,4.67
+OCEANS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+OCEANS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,rag,5.0,5.0,5.0,4.33,4.33
+OCEANS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+OCEANS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,5.0,5.0,4.67,5.0,4.67
+OCEANS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.13,rag,4.33,5.0,4.0,4.0,3.33
+OCEANS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.47,zero_shot,5.0,5.0,3.67,4.67,4.0
+OCEANS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+OCEANS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.0,4.33,4.33
+OCEANS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+OCEANS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+OCEANS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,rag,5.0,5.0,4.33,5.0,5.0
+OCEANS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+OCEANS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+OCEANS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.47,rag,5.0,5.0,4.67,4.0,3.67
+OCEANS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+BIOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+BIOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,5.0,5.0,4.33,4.33,4.33
+BIOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,3.67,5.0,4.33
+BIOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,2rag,5.0,5.0,3.67,5.0,5.0
+BIOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.0,4.67,4.0
+BIOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+BIOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,5.0,5.0,4.67
+BIOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,5.0,5.0,4.67,4.33,4.0
+BIOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+BIOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+BIOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.2,rag,4.33,5.0,4.0,4.0,3.67
+BIOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,3.0,5.0,5.0
+BIOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,5.0,5.0,4.67
+BIOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,5.0,4.67,4.0,4.0
+BIOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+AGRICULTURE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+AGRICULTURE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,5.0,5.0,4.67,4.33,4.0
+AGRICULTURE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+AGRICULTURE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,4.67,5.0,4.67,5.0,5.0
+AGRICULTURE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,rag,5.0,5.0,5.0,4.33,4.0
+AGRICULTURE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.2,zero_shot,4.0,5.0,3.0,4.67,4.33
+AGRICULTURE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+AGRICULTURE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,rag,5.0,5.0,4.33,5.0,5.0
+AGRICULTURE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+AGRICULTURE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+AGRICULTURE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,rag,5.0,5.0,5.0,5.0,4.33
+AGRICULTURE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,zero_shot,5.0,5.0,4.33,5.0,5.0
+AGRICULTURE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+AGRICULTURE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,rag,5.0,5.0,5.0,5.0,4.0
+AGRICULTURE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,3.67,4.67,4.67
+ATMOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,2rag,5.0,5.0,4.33,4.67,4.33
+ATMOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,4.67,5.0,4.0,4.33,4.0
+ATMOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,3.67,4.67,4.67
+ATMOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+ATMOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,4.33,4.0,3.67
+ATMOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.2,zero_shot,4.67,5.0,3.0,4.33,4.0
+ATMOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+ATMOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,4.67,5.0,4.67,4.33,4.33
+ATMOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,4.0,4.67,5.0
+ATMOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+ATMOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,rag,5.0,5.0,5.0,5.0,5.0
+ATMOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+ATMOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,2rag,5.0,5.0,4.33,4.67,4.67
+ATMOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,4.0,4.0,4.0
+ATMOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.07,zero_shot,4.67,5.0,3.0,4.0,3.67
+PALEOCLIMATE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+PALEOCLIMATE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,3.33,4.33,4.33
+PALEOCLIMATE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+PALEOCLIMATE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,5.0,5.0,4.33,5.0,5.0
+PALEOCLIMATE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.13,rag,5.0,5.0,3.67,4.0,3.0
+PALEOCLIMATE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,zero_shot,5.0,5.0,3.67,4.67,5.0
+PALEOCLIMATE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+PALEOCLIMATE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,rag,5.0,5.0,4.67,5.0,5.0
+PALEOCLIMATE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,4.0,5.0,4.67
+PALEOCLIMATE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+PALEOCLIMATE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.33,rag,4.33,5.0,4.33,4.0,4.0
+PALEOCLIMATE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+PALEOCLIMATE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,5.0,5.0,5.0,4.67,4.67
+PALEOCLIMATE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,4.0,4.0,4.0
+PALEOCLIMATE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,zero_shot,5.0,5.0,3.33,5.0,4.67
+CRYOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+CRYOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,4.0,4.0,4.0
+CRYOSPHERE,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,zero_shot,5.0,5.0,3.67,4.33,4.67
+CRYOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.67,5.0,4.33
+CRYOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.13,rag,4.0,5.0,3.67,4.0,4.0
+CRYOSPHERE,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.27,zero_shot,5.0,5.0,3.33,4.0,4.0
+CRYOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+CRYOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,rag,5.0,5.0,5.0,5.0,5.0
+CRYOSPHERE,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,zero_shot,4.0,5.0,4.0,4.67,4.33
+CRYOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.87,2rag,5.0,5.0,4.67,5.0,4.67
+CRYOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,rag,5.0,5.0,5.0,4.67,4.33
+CRYOSPHERE,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+CRYOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,5.0,5.0,4.67
+CRYOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,5.0,5.0,4.33,4.33,4.33
+CRYOSPHERE,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,zero_shot,4.67,5.0,3.67,4.67,4.67
+HUMAN DIMENSIONS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,3.93,rag,4.0,5.0,3.33,4.0,3.33
+HUMAN DIMENSIONS,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,zero_shot,5.0,5.0,3.67,5.0,5.0
+HUMAN DIMENSIONS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.33,rag,4.67,5.0,4.0,4.33,3.67
+HUMAN DIMENSIONS,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,zero_shot,5.0,5.0,3.67,5.0,4.67
+HUMAN DIMENSIONS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,4.0,4.0,4.0
+HUMAN DIMENSIONS,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.47,zero_shot,5.0,5.0,3.33,4.67,4.33
+HUMAN DIMENSIONS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+HUMAN DIMENSIONS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.73,rag,5.0,5.0,4.0,5.0,4.67
+HUMAN DIMENSIONS,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+HUMAN DIMENSIONS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+HUMAN DIMENSIONS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.6,rag,5.0,5.0,4.0,4.33,4.67
+HUMAN DIMENSIONS,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.27,zero_shot,4.67,5.0,3.67,4.0,4.0
+BIOLOGICAL CLASSIFICATION,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,4.67,4.33,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.33,rag,5.0,5.0,3.67,4.0,4.0
+BIOLOGICAL CLASSIFICATION,Exploratory,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,zero_shot,5.0,5.0,4.0,4.67,4.67
+BIOLOGICAL CLASSIFICATION,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,rag,5.0,5.0,4.67,4.67,4.67
+BIOLOGICAL CLASSIFICATION,Comparative,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.67,zero_shot,5.0,5.0,4.33,4.67,4.33
+BIOLOGICAL CLASSIFICATION,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,5.0,2rag,5.0,5.0,5.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,rag,5.0,4.67,4.33,4.33,4.33
+BIOLOGICAL CLASSIFICATION,Descriptive,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,2rag,5.0,5.0,4.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.4,rag,5.0,5.0,4.0,4.0,4.0
+BIOLOGICAL CLASSIFICATION,Causal,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.8,zero_shot,5.0,5.0,4.0,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.93,2rag,5.0,5.0,4.67,5.0,5.0
+BIOLOGICAL CLASSIFICATION,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.2,rag,4.33,5.0,4.0,4.0,3.67
+BIOLOGICAL CLASSIFICATION,Relational,meta-llama/Llama-3.3-70B-Instruct-Turbo,4.53,zero_shot,5.0,5.0,3.67,4.67,4.33

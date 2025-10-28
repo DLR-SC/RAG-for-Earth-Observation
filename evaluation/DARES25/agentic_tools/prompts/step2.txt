@@ -1,0 +1,7 @@
+Now, based on your reasoning, rate the usefulness of the question on a scale from 1 to 10. The higher the score, the more helpful or valid the question is. 
+- A low score between 1 and 3 if the question is not helpful at all:
+- A high score between 7 and 10 if you find the question to be very helpful.
+
+It can be assumed that questions are either fully helpful or not helpful at all, but rarely partially helpful. Consider that in your evaluation.
+
+Return your answer as "score" : <integer>.

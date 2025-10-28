@@ -1,0 +1,34 @@
+{
+  "question": "How does the melting of sea ice influence ocean circulation patterns?",
+  "answer_scores_dict": {
+    "rag_answer": 4.8,
+    "zero_shot_answer": 4.8,
+    "rag_two_steps_answer": 4.87
+  },
+  "answer_criteria_scores": {
+    "rag_answer": {
+      "factuality": 5,
+      "relevance": 5,
+      "groundedness": 5,
+      "helpfulness": 4.67,
+      "depth": 4.33
+    },
+    "zero_shot_answer": {
+      "factuality": 5,
+      "relevance": 5,
+      "groundedness": 4,
+      "helpfulness": 5,
+      "depth": 5
+    },
+    "rag_two_steps_answer": {
+      "factuality": 5,
+      "relevance": 5,
+      "groundedness": 4.67,
+      "helpfulness": 5,
+      "depth": 4.67
+    }
+  },
+  "best_answer": "rag_two_steps_answer",
+  "best_answer_index": 2,
+  "instruction_template": "\n### INSTRUCTIONS\n\nYou are tasked with evaluating an **answer** to a given **question**.  \nFollow these steps carefully:  \n\n1. **Understand the task**: Read the question, context, and answer in full.  \n2. **Feedback**: Write a constructive feedback statement focusing **only** on the criteria described below. Do **not** provide general opinions outside the criteria.  \n3. **Score**: For each criterion, assign an integer score between **1** (lowest) and **5** (highest), strictly following the provided rubrics.  \n\n> **Note**: If a context is provided, it originates from scientific publications and is considered accurate.\n\n---\n\n### CRITERIA\n- Factuality\n   Are the scientific claims in the answer correct and verifiable, avoiding hallucinations?\n    1: Mostly incorrect or fabricated scientific information.\n    2: Multiple factual errors; unreliable overall.\n    3: Mostly correct but contains minor factual inaccuracies.\n    4: Correct overall with small imprecisions.\n    5: Fully correct, scientifically sound, and verifiable.\n\n- Relevance\n   Does the answer stay within the scientific domain and address the question?\n    1: Irrelevant or off-topic.\n    2: Partially relevant; answer drifts away from domain focus.\n    3: Addresses the topic but includes irrelevant details or omits important parts.\n    4: Relevant with only minor tangential content.\n    5: Fully relevant and addresses all aspects of the question.\n\n- Groundedness\n   Are claims supported by provided context or your known sources, avoiding unsupported assertions?\n    1: Entirely unsupported; ignores context.\n    2: Minimal use of provided evidence.\n    3: Uses context but contains unsupported claims.\n    4: Mostly grounded; few unsupported statements.\n    5: Fully grounded; all key claims traceable to sources.\n\n- Helpfulness\n   Is the answer actionable and useful for scientific purposes (e.g., dataset identification, methodological guidance)?\n    1: Not useful or misleading.\n    2: Slightly useful; lacks actionable insights.\n    3: Useful but limited in scope or detail.\n    4: Useful and mostly actionable.\n    5: Highly useful, actionable, and tailored to scientific needs.\n\n- Depth\n   Does the answer provide sufficient detail and coverage for scientific understanding?\n    1: Very shallow, superficial.\n    2: Minimal detail, missing key aspects.\n    3: Moderate depth but lacks some important information.\n    4: Detailed and covers most aspects.\n    5: Comprehensive and highly detailed.\n\n---\n\n### QUESTION-ANSWER FOR ASSESSMENT\n\n**Question**  \n{question}  \n\n**Context (if provided)**  \n{context}  \n\n**Answer**  \n{answer}\n\n---\n\n### OUTPUT FORMAT\n1. **Feedback**: Summarize the answer quality based on the criteria.  \n2. **Scores (1\u20135 per criterion)**: Provide a score for each criterion.\n\n\n### Assess The Answer\n\n"
+}

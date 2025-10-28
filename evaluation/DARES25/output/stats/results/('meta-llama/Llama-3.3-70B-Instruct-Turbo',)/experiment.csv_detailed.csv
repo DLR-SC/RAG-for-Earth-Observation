@@ -1,0 +1,7 @@
+feature;is_normal (shapiro);is_homogeneous (levene);p_value;is_significant;effect;result;('2rag', 'rag');('2rag', 'rag');('2rag', 'zero_shot');('2rag', 'zero_shot');('rag', 'zero_shot');('rag', 'zero_shot')
+score;False;False;9.532276975029233e-20;True;;;True;0.67;True;0.65;True;-0.26
+score_factuality;False;False;0.0020540404558843177;True;;;True;0.18;False;;False;
+score_relevance;False;False;0.16819589302885934;False;;;False;;False;;False;
+score_groundedness;False;False;2.3433030151219255e-17;True;;;True;0.35;True;0.71;True;0.39
+score_helpfulness;False;False;3.344970047232506e-19;True;;;True;0.67;True;0.27;True;-0.48
+score_depth;False;False;4.463515205515054e-21;True;;;True;0.71;True;0.33;True;-0.53

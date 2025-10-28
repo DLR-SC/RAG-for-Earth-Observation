@@ -1,0 +1,6 @@
+;feature;2rag rag;2rag zero_shot;rag zero_shot
+0;score;0.67;0.65;-0.26
+1;score_factuality;0.18;;
+2;score_groundedness;0.35;0.71;0.39
+3;score_helpfulness;0.67;0.27;-0.48
+4;score_depth;0.71;0.33;-0.53

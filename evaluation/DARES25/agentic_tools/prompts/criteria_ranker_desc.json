@@ -1,0 +1,26 @@
+{
+    "depth":
+    {
+        "name": "Depth",
+        "desc": "A \"deep\" question challenges the core reasoning or assumptions in the argument.",
+        "adj": "deep"
+    },
+    "reasoning":
+    {
+        "name": "Reasoning Quality",
+        "desc": "A high-quality question is logically coherent, and avoids misrepresenting the argument or using fallacies.",
+        "adj": "quality of reasoning"
+    },
+    "relevance":
+    {
+        "name": "Relevance",
+        "desc": "A \"relevant\" question stays focused on the original argument and does not bring in unrelated ideas.",
+        "adj": "relevant"
+    },
+    "specificity":
+    {
+        "name": "Specificity",
+        "desc": "A \"specific\" question is clearly tailored to the given argument, not so general that it could apply to any argument.",
+        "adj": "specific"
+    }
+}

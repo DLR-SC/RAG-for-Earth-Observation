@@ -1,4 +1,5 @@
 # RAG for Earth Observation
+Click here to read our paper(https://elib.dlr.de/218571/1/DARES25_paper_10.pdf)
 
 ## Repository Strucutre
 
